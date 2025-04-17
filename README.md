@@ -15,7 +15,7 @@ Machine Learning is a subfield of Artificial Intelligence (AI) that enables syst
 
 In supervised learning, the model is trained on a labeled dataset, meaning the input comes with the correct output. The aim is to learn a mapping from inputs to outputs.
 
-### 🧠 Algorithms and Concepts:
+### 🧱 Algorithms and Concepts:
 - **Linear Regression**  
   Predicts a continuous value using a linear relationship between input and output variables.
   
@@ -48,7 +48,7 @@ In supervised learning, the model is trained on a labeled dataset, meaning the i
 
 Unsupervised learning deals with unlabeled data. The model tries to identify patterns, groupings, or structures within the data without guidance.
 
-### 🧠 Algorithms and Concepts:
+### 🧱 Algorithms and Concepts:
 - **K-Means Clustering**  
   Partitions the data into k clusters based on feature similarity.
   
