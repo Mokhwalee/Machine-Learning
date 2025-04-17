@@ -1,1 +1,1 @@
-# mokalee
+# Machine Learning Study in Python
