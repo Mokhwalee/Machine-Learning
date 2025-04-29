@@ -24,7 +24,10 @@ In supervised learning, the model is trained on a labeled dataset, meaning the i
 
 - **Decision Trees**  
   Tree-based models that split the dataset based on features to make predictions.
-  
+
+- **Random Forest**  
+An ensemble of decision trees that improves accuracy and reduces overfitting.
+
 - **Support Vector Machines (SVM)**  
   Finds the optimal hyperplane that separates data into different classes.
   
@@ -34,9 +37,6 @@ In supervised learning, the model is trained on a labeled dataset, meaning the i
 - **Naive Bayes**  
   A probabilistic classifier based on Bayes' Theorem with strong independence assumptions.
   
-- **Random Forest**  
-  An ensemble of decision trees that improves accuracy and reduces overfitting.
-
 - **Boosting Algorithms**  
   Boosting is an ensemble learning technique that builds a strong predictive model by combining multiple weak learners (typically decision trees). It works sequentially, where each new model focuses on correcting the errors made by the previous ones.
   
